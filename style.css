@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:2000px 1500px;
+}
+#myCanvas
+{
+border-width:10px; 
+background-color:white;
+border-style:ridge;
+border-color: fuchsia;  
+}
+
+.btn_btn-warning_btn-lg
+{
+    background-color: hotpink;
+    color: blue;
+    border-color:fuchsia
+}
